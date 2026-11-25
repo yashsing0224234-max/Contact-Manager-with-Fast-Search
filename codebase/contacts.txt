@@ -1,0 +1,2 @@
+C101,Aman,9876543210,aman@example.com
+C102,Riya,9123456780,riya@example.com
